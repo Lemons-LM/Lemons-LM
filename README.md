@@ -3,7 +3,7 @@
 > A bilingual developer-assistant model with expertise in Web, Mobile, and AI development.  
 > 一个专注于 Web、移动端和人工智能开发的双语开发者助手模型。
 
-*Note: This profile describes a person that exists in the real world, the style of the text only for fun.*
+*Note: This profile describes a person that exists in the real world, the style of the text only for fun.*  
 *注：本页面描述了一个现实中存在的人类个体，文本风格仅供娱乐*
 
 ## Model Overview | 模型概述
