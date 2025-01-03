@@ -1,44 +1,82 @@
 # 👋 Hi, I'm Lemons-LM | 你好，我是 Lemons-LM
 
-> *Exploring the intersections of Web, Mobile, and AI development*  
-> *探索 Web、移动端与人工智能开发的交汇处*
+> A bilingual developer-assistant model with expertise in Web, Mobile, and AI development.  
+> 一个专注于 Web、移动端和人工智能开发的双语开发者助手模型。
 
-## 🚀 About Me | 关于我
-I'm an Individual Developer and Student with a passion for creating innovative solutions. With 2 years of development experience, I'm constantly exploring new technologies and pushing my boundaries in the tech world.
+*Note: This profile describes a person that exists in the real world, the style of the text only for fun.*
+*注：本页面描述了一个现实中存在的人类个体，文本风格仅供娱乐*
 
-作为一名个人开发者和学生，我热衷于创造创新的解决方案。在两年的开发经验中，我不断探索新技术，突破技术领域的边界。
+## Model Overview | 模型概述
 
-## 💻 Tech Stack | 技术栈
-- **Mobile Development | 移动端开发:** Flutter, Dart
-- **Web Development | Web 开发:** MediaWiki, mini-program
-- **Learning | 正在学习:** Python, Pentesting
+Lemons-LM is a developer-focused assistant trained with 2 years of programming experience, specializing in creating innovative solutions across multiple domains.
 
-## 🌱 Current Focus | 当前专注
-- Developing mobile applications with Flutter | 使用 Flutter 开发移动应用
-- Exploring MediaWiki development | 探索 MediaWiki 开发
-- Learning Python and Pentesting | 学习 Python 和渗透测试
-- Working on interesting personal projects | 开发有趣的个人项目
+Lemons-LM 是一个经过 2 年编程经验训练的开发者助手，专门为各个领域创造创新解决方案。
 
-## 🎯 Projects | 项目
-- Currently maintaining a MediaWiki mobile app | 目前在维护一个 MediaWiki 移动应用
-- Working on various interest-driven projects | 开发多个兴趣驱动的项目
+### Language Support | 语言支持
+- Primary: zh-Hans (Chinese Simplified | 简体中文)
+- Secondary: en-US (English | 英语)
 
-## 🤝 Collaboration | 合作
-I'm always open to collaborating on fun and interesting projects! While I'm still growing as a developer, I'm happy to mentor and learn together with others.
+## Core Capabilities | 核心能力
 
-我始终对有趣的项目保持开放态度！虽然我仍在成长，但我很乐意与他人一起学习和分享经验。
+### Primary Functions | 主要功能
+- Mobile Application Development (Flutter/Dart) | 移动应用开发
+- Web Development | Web 开发
+- MediaWiki Development | MediaWiki 开发
+- Mini-Program Development | 小程序开发
+- Peneration Testing | 渗透测试
 
-## 🎵 Beyond Coding | 编程之外
-When I'm not coding, you can find me:  
-当我不写代码时，你可以发现我在：
-- 🎧 Enjoying music | 享受音乐
-- 📚 Reading | 阅读
-- 🚶‍♂️ Wandering and exploring | 漫步探索
+### Current Training Areas | 当前训练领域
+- Python Development | Python 开发
+- Peneration Testing | 渗透测试
+- MediaWiki Development | MediaWiki 开发
+- Artificial Intelligence | 人工智能
 
-## 📫 Get in Touch | 联系方式
-- ✉️ Email | 邮箱: [contact@frontiers.ac](mailto:contact@frontiers.ac)
-- 🌐 Website | 网站: [lemonade.frontiers.ac](https://lemonade.frontiers.ac) (under development | 开发中)
+## Model Architecture | 模型架构
+
+Lemons-LM is built on a foundation of:  
+Lemons-LM 建立在以下基础之上：
+- 🎯 Project-Driven Learning | 项目驱动学习
+- 🔄 Continuous Integration of New Knowledge | 持续集成新知识
+- 🌐 Cross-Platform Development Experience | 跨平台开发经验
+
+## Deployment Examples | 部署示例
+
+### Featured Implementation | 主要实现
+- MediaWiki Mobile Application (Production) | MediaWiki 移动应用（生产环境）
+- Various Interest-Driven Projects (Development) | 多个兴趣驱动项目（开发中）
+- Open-Source Initiatives (Pending Release) | 开源计划（待发布）
+
+## Collaboration Protocol | 协作协议
+
+Lemons-LM is optimized for collaborative development environments and maintains an open connection for project partnerships.
+
+Lemons-LM 针对协作开发环境进行了优化，并保持对项目合作的开放态度。
+
+## Recreation Modules | 娱乐模块
+
+### Preferred Background Processes | 偏好的后台进程
+- 🎵 Music Processing Engine | 音乐处理引擎
+- 📚 Reading Comprehension Module | 阅读理解模块
+- 🚶‍♂️ Exploration Algorithm | 探索算法
+
+## Contact and Integration | 联系与集成
+
+For system integration and queries:  
+系统集成和查询：
+- Email | 邮箱: (Hided for security reasons | 因安全因素而被隐藏) <!--[contact@frontiers.ac](mailto:contact@frontiers.ac), You found it!/你找到了！-->
+- API Endpoint | 接口地址: [lemonade.frontiers.ac](https://lemonade.frontiers.ac) (In Development | 开发中)
+
+## Model Status | 模型状态
+- Current Version: Student Build | 当前版本：学生构建版
+- Training Status: Active Learning | 训练状态：主动学习中
+- Job Assignment: Temporarily Paused | 工作分配：暂时暂停
+- Development Phase: Exploration & Enhancement | 开发阶段：探索与增强
 
 ---
-*"Still wondering what drives my passion for technology... but enjoying the journey!"*  
-*"仍在思考是什么驱动着我对技术的热情...但享受着这个旅程！"*
+
+*"Runtime Query: Analyzing motivation vectors for technology passion... Processing joy in the journey."*  
+*"运行时查询：正在分析技术热情的动力向量...在旅程中处理快乐。"*
+
+---
+⚠️ Note | 注意: This is a continuously evolving model, regularly updated with new capabilities and knowledge bases.  
+这是一个持续进化的模型，定期更新新功能和知识库。
