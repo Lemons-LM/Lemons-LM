@@ -63,7 +63,7 @@ Lemons-LM 针对协作开发环境进行了优化，并保持对项目合作的�
 
 For system integration and queries:  
 系统集成和查询：
-- Email | 邮箱: (Hided for security reasons | 因安全因素而被隐藏) <!--[contact@frontiers.ac](mailto:contact@frontiers.ac), You found it!/你找到了！-->
+- Email | 邮箱: (Hidden for security reasons | 因安全因素而被隐藏) <!--[contact@frontiers.ac](mailto:contact@frontiers.ac), You found it!/你找到了！-->
 - API Endpoint | 接口地址: [lemonade.frontiers.ac](https://lemonade.frontiers.ac) (In Development | 开发中)
 
 ## Model Status | 模型状态
